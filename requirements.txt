@@ -1,6 +1,6 @@
-# data science dependencies
 pandas
 numpy
 matplotlib
 seaborn
 
+validators
