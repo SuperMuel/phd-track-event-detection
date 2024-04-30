@@ -2,5 +2,9 @@ pandas
 numpy
 matplotlib
 seaborn
+wordcloud
+pillow
+nltk
 
 validators
+requests
