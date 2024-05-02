@@ -6,6 +6,8 @@ wordcloud
 pillow
 nltk
 scikit-learn
+AnimatedWordCloud
+mistralai
 
 validators
 requests
