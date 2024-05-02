@@ -5,6 +5,8 @@ seaborn
 wordcloud
 pillow
 nltk
+scikit-learn
 
 validators
 requests
+
